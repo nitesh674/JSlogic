@@ -20,3 +20,5 @@
 //  let str = "madam";
 
 //  console.log(isPlindrome(str));
+
+
